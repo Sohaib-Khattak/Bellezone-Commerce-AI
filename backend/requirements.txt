@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy[asyncio]
+asyncpg
+redis
+pydantic
+pydantic-settings
+python-dotenv
+langchain
+langchain-openai
+crewai
+crewai-tools
+pyjwt
+passlib[bcrypt]
